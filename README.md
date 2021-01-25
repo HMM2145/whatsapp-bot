@@ -13,7 +13,7 @@ BOT WHATSAPP TERMUX ONLY BY HMM
 
 > apt update && apt upgrade
 
-> git clone https://github.com/HMM2145/whatsapp-bot
+> git clone https://hmm2145.github.io/whatsapp-bot/
 
 > cd Didin-bot-wa
 
